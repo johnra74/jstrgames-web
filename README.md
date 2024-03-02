@@ -1,2 +1,2 @@
-# jstrgames_web
-jstrgames static web
+# JSTR Games
+Static website for JSTR Games.

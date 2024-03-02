@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>genre &#8211; J S T R &nbsp; G A M E S</title>
+	<atom:link href="/author/genre/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another gaming site</description>
+	<lastBuildDate>Sun, 06 Feb 2022 22:10:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>OctoWord</title>
+		<link>/2022/02/06/octoword/</link>
+		
+		<dc:creator><![CDATA[genre]]></dc:creator>
+		<pubDate>Sun, 06 Feb 2022 22:09:11 +0000</pubDate>
+				<category><![CDATA[Puzzle]]></category>
+		<guid isPermaLink="false">/?p=45</guid>
+
+					<description><![CDATA[Oops, I did it again. This game was inspired by both Wordle and the classic crossword puzzle. Guess the 8-letter (Octo) word of the day. [...]]]></description>
+										<content:encoded><![CDATA[
+<p>Oops, I did it again. This game was inspired by both <a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a> and the classic crossword puzzle. Guess the 8-letter (Octo) word of the day. Just like Wordle, you have 6 tries. However, like classic crossword puzzle, you have the help of the clue. Try to guess it on the first try or play like Wordle and eliminate letters to help identify the word of the day.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordHéx</title>
+		<link>/2022/01/30/wordhex/</link>
+		
+		<dc:creator><![CDATA[genre]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2022 01:22:51 +0000</pubDate>
+				<category><![CDATA[Puzzle]]></category>
+		<guid isPermaLink="false">/?p=37</guid>
+
+					<description><![CDATA[This game was inspired by the Wordle. Wordle is daily word puzzle created by Josh Wardle, hence the name Wordle. You can read about his [...]]]></description>
+										<content:encoded><![CDATA[
+<p>This game was inspired by the <a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a>. Wordle is daily word puzzle created by Josh Wardle, hence the name Wordle. You can read about his story on <a href="https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html">New York Times</a>. I thought about calling my version, WordRa, but that was borderline silly. With Wordle, I look forward to the daily word but wanted something similar to occupied my time.</p>
+
+
+
+<p>I created <a href="https://wordhex.jstrgames.com/">WordHéx </a>over the weekend. It has the same rules as Wordle. The only difference it that it&#8217;s 6-letter word, hence the suffix &#8220;héx&#8221; &#8211; six. I hope Josh finds my imitation as flattery. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ngTrix</title>
+		<link>/2022/01/26/ngtrix/</link>
+		
+		<dc:creator><![CDATA[genre]]></dc:creator>
+		<pubDate>Wed, 26 Jan 2022 18:37:11 +0000</pubDate>
+				<category><![CDATA[Puzzle]]></category>
+		<guid isPermaLink="false">/?p=8</guid>
+
+					<description><![CDATA[ngTrix is an Angular-based Soviet tile-matching puzzle video game called Tetris (/ˈtɛtrʲɪs/) originally designed and programmed by Alexey Pajitnov. I wrote this to learn more [...]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://ngtrix.jstrgames.com/">ngTrix </a>is an Angular-based Soviet tile-matching puzzle video game called Tetris (/ˈtɛtrʲɪs/) originally designed and programmed by Alexey Pajitnov. I wrote this to learn more about Angular &amp; TypeScript. Game is available to play in any modern browser. Source code is available on <a href="https://github.com/johnra74/ngtrix">my GitHub repo</a>. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Space Invader</title>
+		<link>/2022/01/05/space-invader/</link>
+		
+		<dc:creator><![CDATA[genre]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2022 18:53:00 +0000</pubDate>
+				<category><![CDATA[Flash Game]]></category>
+		<guid isPermaLink="false">/?p=19</guid>
+
+					<description><![CDATA[Space Invaders is a fixed shooter game where the player dodges alien fires while attempting to destroy the in invading aliens. This version was written [...]]]></description>
+										<content:encoded><![CDATA[
+<p>Space Invaders is a fixed shooter game where the player dodges alien fires while attempting to destroy the in invading aliens. This version was written in Adobe Flash. Adobe Flash has been removed from all modern browsers. However, a flash player emulator written in the Rust programming language is available. Web assemble has been loaded so that you can enjoy this <a href="https://www.jstrgames.com/games/invaders.html">classic flash game</a>. Enjoy.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pac-Man</title>
+		<link>/2021/12/26/pac-man/</link>
+		
+		<dc:creator><![CDATA[genre]]></dc:creator>
+		<pubDate>Sun, 26 Dec 2021 18:49:00 +0000</pubDate>
+				<category><![CDATA[Flash Game]]></category>
+		<guid isPermaLink="false">/?p=15</guid>
+
+					<description><![CDATA[Pac-Man doesn&#8217;t need any introduction &#8211; I may be aging myself. It is a maze game where the character must eat all the pellets inside [...]]]></description>
+										<content:encoded><![CDATA[
+<p>Pac-Man doesn&#8217;t need any introduction &#8211; I may be aging myself. It is a maze game where the character must eat all the pellets inside an enclosed maze while avoiding ghosts. This was one of the first game I was introduced to on the Atari console as a child. This version was written in Adobe Flash. Adobe Flash has been removed from all modern browsers. However, a flash player emulator written in the Rust programming language is available. Web assemble has been loaded so that you can enjoy this <a href="https://www.jstrgames.com/games/pacman.html">classic flash game</a>. Enjoy.</p>
+
+
+
+<p>P.S. I did not create this game. I found it in the back up of my old website. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
