@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>genre &#8211; J S T R &nbsp; G A M E S</title>
-	<atom:link href="/author/genre/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>genre &#8211; J S T R   G A M E S</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Just another gaming site</description>
 	<lastBuildDate>Sun, 06 Feb 2022 22:10:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,15 +18,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>OctoWord</title>
-		<link>/2022/02/06/octoword/</link>
+		<link>./../../../2022/02/06/octoword/index.html</link>
 		
 		<dc:creator><![CDATA[genre]]></dc:creator>
 		<pubDate>Sun, 06 Feb 2022 22:09:11 +0000</pubDate>
 				<category><![CDATA[Puzzle]]></category>
-		<guid isPermaLink="false">/?p=45</guid>
+		<guid isPermaLink="false">http://10.0.0.59/?p=45</guid>
 
 					<description><![CDATA[Oops, I did it again. This game was inspired by both Wordle and the classic crossword puzzle. Guess the 8-letter (Octo) word of the day. [...]]]></description>
 										<content:encoded><![CDATA[
@@ -38,12 +38,12 @@
 			</item>
 		<item>
 		<title>WordHéx</title>
-		<link>/2022/01/30/wordhex/</link>
+		<link>./../../../2022/01/30/wordhex/index.html</link>
 		
 		<dc:creator><![CDATA[genre]]></dc:creator>
 		<pubDate>Sun, 30 Jan 2022 01:22:51 +0000</pubDate>
 				<category><![CDATA[Puzzle]]></category>
-		<guid isPermaLink="false">/?p=37</guid>
+		<guid isPermaLink="false">http://10.0.0.59/?p=37</guid>
 
 					<description><![CDATA[This game was inspired by the Wordle. Wordle is daily word puzzle created by Josh Wardle, hence the name Wordle. You can read about his [...]]]></description>
 										<content:encoded><![CDATA[
@@ -59,12 +59,12 @@
 			</item>
 		<item>
 		<title>ngTrix</title>
-		<link>/2022/01/26/ngtrix/</link>
+		<link>./../../../2022/01/26/ngtrix/index.html</link>
 		
 		<dc:creator><![CDATA[genre]]></dc:creator>
 		<pubDate>Wed, 26 Jan 2022 18:37:11 +0000</pubDate>
 				<category><![CDATA[Puzzle]]></category>
-		<guid isPermaLink="false">/?p=8</guid>
+		<guid isPermaLink="false">http://10.0.0.59/?p=8</guid>
 
 					<description><![CDATA[ngTrix is an Angular-based Soviet tile-matching puzzle video game called Tetris (/ˈtɛtrʲɪs/) originally designed and programmed by Alexey Pajitnov. I wrote this to learn more [...]]]></description>
 										<content:encoded><![CDATA[
@@ -76,12 +76,12 @@
 			</item>
 		<item>
 		<title>Space Invader</title>
-		<link>/2022/01/05/space-invader/</link>
+		<link>./../../../2022/01/05/space-invader/index.html</link>
 		
 		<dc:creator><![CDATA[genre]]></dc:creator>
 		<pubDate>Wed, 05 Jan 2022 18:53:00 +0000</pubDate>
 				<category><![CDATA[Flash Game]]></category>
-		<guid isPermaLink="false">/?p=19</guid>
+		<guid isPermaLink="false">http://10.0.0.59/?p=19</guid>
 
 					<description><![CDATA[Space Invaders is a fixed shooter game where the player dodges alien fires while attempting to destroy the in invading aliens. This version was written [...]]]></description>
 										<content:encoded><![CDATA[
@@ -93,12 +93,12 @@
 			</item>
 		<item>
 		<title>Pac-Man</title>
-		<link>/2021/12/26/pac-man/</link>
+		<link>./../../../2021/12/26/pac-man/index.html</link>
 		
 		<dc:creator><![CDATA[genre]]></dc:creator>
 		<pubDate>Sun, 26 Dec 2021 18:49:00 +0000</pubDate>
 				<category><![CDATA[Flash Game]]></category>
-		<guid isPermaLink="false">/?p=15</guid>
+		<guid isPermaLink="false">http://10.0.0.59/?p=15</guid>
 
 					<description><![CDATA[Pac-Man doesn&#8217;t need any introduction &#8211; I may be aging myself. It is a maze game where the character must eat all the pellets inside [...]]]></description>
 										<content:encoded><![CDATA[
