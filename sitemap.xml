@@ -6,83 +6,98 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.jstrgames.com/2026/06/22/classic-snake/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2026/05/24/ricochet/</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2026/04/14/minesweeper/</loc>
-    <lastmod>2026-04-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2026/04/11/magic-8-ball/</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2024/03/03/game-of-life/</loc>
-    <lastmod>2024-03-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2022/02/06/octoword/</loc>
-    <lastmod>2022-02-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2022/01/30/wordhex/</loc>
-    <lastmod>2022-01-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2022/01/26/ngtrix/</loc>
-    <lastmod>2022-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2022/01/05/space-invader/</loc>
-    <lastmod>2022-01-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/2021/12/26/pac-man/</loc>
-    <lastmod>2021-12-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.jstrgames.com/category/puzzle/</loc>
+    <loc>https://www.jstrgames.com/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.jstrgames.com/category/simulation/</loc>
+    <loc>https://www.jstrgames.com/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.jstrgames.com/category/novelty/</loc>
+    <loc>https://www.jstrgames.com/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.jstrgames.com/category/flash/</loc>
+    <loc>https://www.jstrgames.com/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com./index.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jstrgames.com/2026/10/12/nomen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
